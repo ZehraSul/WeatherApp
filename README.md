@@ -2,6 +2,9 @@
 
 A small weather app, using https://openweathermap.org
 
+## Demo
+https://stellar-mochi-0a3d32.netlify.app/
+
 
 ## Run Locally
 
